@@ -1,0 +1,5 @@
+.git
+.gitignore
+lectures
+*.md
+.DS_Store
